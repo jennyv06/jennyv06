@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedora full-stack, atualmente cursando a 3° Fase do curso técnico em desenvolvimento de sistemas. Atualmente, também trabalho como desenvolvedora back-end pela intelbras.
+Eu sou desenvolvedora full-stack, atualmente cursando a 4° Fase do curso técnico em desenvolvimento de sistemas. Atualmente, também trabalho como desenvolvedora back-end pela intelbras.
 
 
 ## 🔗 Links
